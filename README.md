@@ -6,7 +6,20 @@ First of all, I invite you to visit the Course Info [clicking here](), where you
 ## Description
 In this course, I will teach you how to programming from scratch in JavaScript. I will teach you the fundamentals stuff of Vanilla JavaScript, and how to implement a library like jQuery. A plus in this course you will learn to do testing with Jest Framework. Don't know what is Jest? Don't worry, you'll.
 
-**Note:** You must know how to work with Git and GitHub to take this course, if you don't know how it works, please let me know and I can teach you with extra cost.
-
 ## Getting Started and workspace
 You can clone this repository locally and start working with it, which is my recommendation, but feel free to create it from scratch on your computer.
+
+## Stages
+The course is divided into 10 stages, a total of 23 hours, here you will see a guide on how this course is divided and how we will progress.
+
+### Stage 1. Train your logic to program. (1 hour).
+### Stage 2. Flowcharts. (1 hour).
+### Stage 3. Prepare workspace. (1 - 2 hours).
+### Stage 4. Fundamentals of Vanilla JavaScript. (5 hours).
+### Stage 5. Libraries like jQuery. (2 hours).
+### Stage 6. "Hello, World" and first algorithms. (5 hours).
+### Stage 7. Project in Mars, doing a calculator. (3 hours).
+### Stage 8. What is Node.js? (1 hour).
+### Stage 9. What is Testing and Jest Framework? (1 hour).
+### Stage 10. Doing a Technical Test! (1 - 2 hours).
+
