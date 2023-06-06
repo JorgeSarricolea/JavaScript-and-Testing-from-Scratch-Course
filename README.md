@@ -36,8 +36,6 @@ Flowcharts are important tools in programming as they aid in designing, planning
 You need a good environment to work efficiently. The right programs and tools that I recommend in this course are the ones that have worked perfectly for me and the tech industry.
 
 - VSCode installation
-- Java Programming Languaje
-- Python Programming Languaje
 - Git and GitHub installation
 - Some extensions to VSCode
 
@@ -91,4 +89,6 @@ Testing refers to the process of evaluating a software system or its components 
 Jest is a popular JavaScript testing framework that is widely used for testing JavaScript applications, including Node.js projects, React components, and other JavaScript libraries. It is maintained by Facebook and provides an intuitive and powerful testing environment.
 
 ### Stage 10. Doing a Technical Test! (1 - 2 hours).
+I have a repository specifically prepared for this part of the course. You can [click here](https://github.com/JorgeSarricolea/JavaScript-Testing) to access the guide.
+
 This is a common technical test that is required when applying for a web developer job. We will put into practice everything you have learned in this course. Are you ready for the test?
